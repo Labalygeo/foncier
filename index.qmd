@@ -1,0 +1,114 @@
+---
+title: "Atelier de validation des modules"
+format: revealjs
+menu:
+      side: right
+      width: wide
+chalkboard: true
+incremental: true 
+logo: ussein-giz.jpg
+author: "Labaly TOURE"
+institute: "Université du Sine Saloum El hadj Ibrahima Niass(**USSEIN**)"
+editor: visual
+date: 2023-08-30
+footer: "Projet d'appui à la formation des acteurs sur la gouvernance foncière"
+---
+
+## Atelier de validation des modules de formation et partage des activités du projet  de partenariat USSEIN-GIZ sur la gouvernance foncière dans les régions de Kaffrine et Kaolack (Sénégal)
+
+
+      Mot de passe wifi : HorizonS20
+
+## L'histoire du projet
+
+::: {layout-ncol="2"}
+![Autour d'une table](photo2.jpg){width="1422"}
+
+![Signature](photo1.jpg){width="1426"}
+:::
+
+# Contexte
+
+-   Projet de convention entre USSEIN et GIZ à travers le projet SEEN SUUF
+-   Université publique , nouvelle génération
+-   Missions de l'Université: Formation, Recherche, Service à la communauté
+-   Absence de cadre de formation sur le foncier
+-   SEEN SUUF: Contexte favorable pour GIZ et USSEIN
+
+## Objectifs de l'atelier
+
+-   Présenter les activités du projet
+-   Valider les différents modules
+-   Identifier les responsables de modules
+-   Réaliser la structure des différents modules
+-   Valider le chronogramme des principales activités du projet de recherche
+
+## Résultats attendus de l'atelier
+
+-   Les activités du projet sont partagées(animations thématiques, caravanes de sensibilisation, )
+-   Les plans des modules sont élaborés(format, durée, modalités, cibles, nombre de participants)
+-   Les modules sont validés(intitulé, responsables)
+-   Les activités du projet de recherche sont validées
+-   Le chronogramme est validé.
+
+## Plan
+
+-   PRESENTATION DU PROJET
+-   OBJECTIFS
+-   RESULTATS
+
+## Introduction
+
+-   Titre du projet: **Projet d'appui à la formation des acteurs locaux et des autorités administratives sur la gouvernance foncière dans les régions de Kaffrine et Kaolack**
+-   Durée: 10 mois
+-   Budget: 60 564 000 XOF
+-   4 composantes:
+    -   Élaboration des modules ,
+    -   Sessions de formation des acteurs 
+    -  Recherche sur la gouvernance foncière dans les régions de Kaolack et Kaffrine
+    -   Appui à la formation en Géomatique et gestion fonciere.
+
+## OBJECTIFS
+
+1- Organisation d'animations thématiques périodiques sur le foncier à destination des acteurs des collectivités territoriales dans les régions de Kaolack et Kaffrine
+
+2-Élaboration de modules de  formation 
+
+## Objectifs(suite)
+
+3- Renforcement des compétences des acteurs de la région par des formations à la carte sur les problématiques liées à la gestion du foncier
+
+4- Organisation d'émissions de vulgarisation sur la sécurité foncière en collaboration avec SEEN SUUF
+
+5- Animation d'une caravane de sensibilisation sur le foncier en collaboration avec SEEN SUUF
+
+6- Animation de conférences médiatisées sur le foncier en collaboration avec SEEN SUUF
+
+## RESULTATS ATTENDUS
+
+-   Six(6) animations thématiques sont organisées dans les régions de Kaolack et Kaffrine (une par département)
+-   Un(1) module sur la cartographie est élaboré et dispensé
+-   Un(1) module sur la topographie est élaboré et dispensé
+-   Un(1) module sur le SIG est élaboré et dispensé
+-   Un(1) module sur le traitement d'images satellitaires et de drones est élaboré et dispensé
+-   Un(1) module sur le SIF est élaboré et dispensé
+-   Un(1) module sur les outils de gestion et de planification territoriale (PAOS, SCADT) est élaboré et dispensé
+
+## Resultats attendus(suite)
+
+-   Huit(8) sessions de formation des acteurs territoriaux sur des thématiques liées à la sécurité foncière dans les huit (08) communes concernées de la région de Kaffrine sont organisées ;
+-   Dix(10) bourses d'étudiants sont octroyées
+-   Une(1) recherche sur la gestion du foncier dans les régions de Kaffrine et Kaolack est réalisée
+-   Deux(2) caravanes de sensibilisation sont organisées dans les régions de Kaffrine et Kaolack
+
+## Cibles
+
+-   Elus locaux
+-   Autorités déconcentrées (gouverneur, préfet, sous-préfet), les agents des services administratifs, des centres des services fiscaux (impôts et domaines, conservation foncière, cadastre), l'urbanisme,
+-   Agents du secteur privé (géomètres, divers experts), les chefs religieux et coutumiers,
+-   Responsables des organisations paysannes, les éleveurs, les agriculteurs, les jeunes, les femmes
+
+
+## **Ensemble pour une gouvernance fonciére**
+
+## **Merci**
